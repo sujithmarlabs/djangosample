@@ -1,0 +1,5 @@
+*.pyc
+*.db
+polls/migrations/*
+migrations/*
+media/*
